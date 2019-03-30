@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+BallNChain/Intermediate/
+
+BallNChain/Saved/Autosaves/
+
+BallNChain/Saved/
